@@ -2,6 +2,44 @@
 This repo contains all the information related to Machine Learning for Microsoft Azure Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
 
+## Day 5: July 18, 2020. #50DaysofUdacity
+- My current progress is:\
+  **1. Introduction to Machine Learning on Azure** (Progress 11%)
+    - **Lesson 2. Introduction to Machine Learning** (Progress 33%)
+		- **Encoding Categorical Data**
+			- Ordinal Encoding 
+			- One hot Encoding.
+		- **Image Data**
+		- **Text Data**
+			- Normalization: Text normalization is the process of transforming a piece of text into a canonical (official) form.
+				Lemmatization is an example of normalization .
+				Stop words are high-frequency words that are unnecessary (or unwanted) during the analysis.
+			- Vectorization: Process of creating simply an array of numbers/texts.
+			- Feature Extraction
+		- **Two Perspectives on ML**
+			- Computer Science Perspectives
+			We are using input features to create a program that can generate the desired output.
+			- Statistical Perspective
+			We are trying to find a mathematical function that, given the values of the independent variables can predict the values of the dependent variables.
+		- **The Tools for Machine Learning**
+		- **Libraries**
+		- **Cloud Services**
+			Models are the specific representations learned from data
+			Algorithms are the processes of learning
+				Model=Algorithm(Data)
+		- **Models vs Algorithms**
+		- **Linear Regression**
+			The Cost Function
+		- **Classical ML vs. Deep Learning**
+
+I will encourage some random folk @Kuldeep Kumar @Anshu Trivedi @fnando1995 @ChandraShekhar VA @Deep Chatterjee @EO4Wellness
+
+
+![Day 5 1st](images/day-05-1.png)
+![Day 5 2nd](images/day-05-2.png)
+![Day 5 3rd](images/day-05-3.png)
+
+
 ## Day 4: July 17, 2020. #50DaysofUdacity
 - My current progress is:\
   **1. Introduction to Machine Learning on Azure** (Progress 11%)
