@@ -2,6 +2,23 @@
 This repo contains all the information related to Machine Learning for Microsoft Azure Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
 
+## Day 6: July 19, 2020. #50DaysofUdacity
+- My current progress is:\
+  **1. Introduction to Machine Learning on Azure** (Progress 34%)
+    - **Lesson 2. Introduction to Machine Learning** (Progress 100%)
+		- **Approaches to Machine Learning**
+			- **Supervised learning**
+			- **Unsupervised learning**
+			- **Reinforcement learning**
+		- **The Trade-Offs**
+		```prediction error = Bias error + variance + error + irreducible error```
+
+I will encourage some random folk @Kuldeep Kumar @Anshu Trivedi @fnando1995 @ChandraShekhar VA @Deep Chatterjee @EO4Wellness
+
+![Day 6 1st](images/day-06-1.png)
+
+
+
 ## Day 5: July 18, 2020. #50DaysofUdacity
 - My current progress is:\
   **1. Introduction to Machine Learning on Azure** (Progress 11%)
