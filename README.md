@@ -2,6 +2,26 @@
 This repo contains all the information related to Machine Learning for Microsoft Azure Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
 
+
+## Day 9: July 22, 2020. #50DaysofUdacity
+- My current progress is:\
+  **1. Introduction to Machine Learning on Azure** (Progress 38%)
+    - **Lesson 3. Model Training** (Progress 31%)
+		- **Walkthrough: Import, Transform, and Export Data**
+		- **Managing Data**
+		- **More About Datasets**
+
+
+I will encourage some random folk @Kuldeep Kumar @Anshu Trivedi @fnando1995 @ChandraShekhar VA @Deep Chatterjee 
+												   @EO4Wellness @Somya Dwivedi @Solomon Kamau @Mahesh Cheetirala @KT.Yap 
+												   @Richa @Reza Dwi Utomo @Wooil Jeong @Wojtek Czuba  @Debalekha Chakraborty 
+
+
+![Day 9 1st](images/day-09-1.png)
+![Day 9 2nd](images/day-09-2.png)
+
+
+
 ## Day 8: July 21, 2020. #50DaysofUdacity
 - My current progress is:\
   **1. Introduction to Machine Learning on Azure** (Progress 35%)
