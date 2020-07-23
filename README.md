@@ -3,6 +3,28 @@ This repo contains all the information related to Machine Learning for Microsoft
 
 
 
+## Day 10: July 23, 2020. #50DaysofUdacity
+- My current progress is:\
+  **1. Introduction to Machine Learning on Azure** (Progress 39%)
+    - **Lesson 3. Model Training** (Progress 36%)
+		- **Lab: Import, Transform, and Export Data**
+		- **Walkthrough: Import, Transform, and Export Data**
+		- **Lab: Create and Version a Dataset**
+		- **Walkthrough: Create and Version a Dataset**
+
+
+I will encourage some random folk @Kuldeep Kumar @Anshu Trivedi @fnando1995 @ChandraShekhar VA @Deep Chatterjee 
+												   @EO4Wellness @Somya Dwivedi @Solomon Kamau @Mahesh Cheetirala @KT.Yap 
+												   @Richa @Reza Dwi Utomo @Wooil Jeong @Wojtek Czuba  @Debalekha Chakraborty 
+												   @ichrak romdhani @Atul @Clarisse Simoes Ribeiro @Daniela Alexandra Galindo Maldonado
+
+
+![Day 10 1st](images/day-10-1.png)
+![Day 10 2nd](images/day-10-2.png)
+![Day 10 3rd](images/day-10-3.png)
+
+
+
 ## Day 9: July 22, 2020. #50DaysofUdacity
 - My current progress is:\
   **1. Introduction to Machine Learning on Azure** (Progress 38%)
