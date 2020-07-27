@@ -1,6 +1,25 @@
 # 2.5-month-of-microsoft-azure-machine-learning-challenge
 This repo contains all the information related to Machine Learning for Microsoft Azure Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
+## Day 14: July 27, 2020. #50DaysofUdacity
+- My current progress is:\
+  **1. Introduction to Machine Learning on Azure** (Progress 46%)
+    - **Lesson 3. Model Training** (Progress 69%)
+		- **Training Classifiers**
+			>  In a **classification** problem, the outputs are categorical or discrete.
+		- **Training Regressors**
+			> In a **regression** problem, the output is numerical or continuous.
+		- **Evaluating Model Performance**
+			> The **test dataset** is a portion of labeled data that is split off and reserved for model evaluation.
+
+
+I will encourage some random folk @Gerry K @Jason Yoo @Karol Karwat  @Jayavardhan Kaspa  @Archita Totla 
+													@Melody Pereira @Jahnavi Jonnalagadda @Shivani Chauhan @Abiola Omolaja
+
+
+![Day 14 1st](images/day-14-1.png)
+![Day 14 2nd](images/day-14-2.png)
+
 
 ## Day 13: July 26, 2020. #50DaysofUdacity
 - My current progress is:\
