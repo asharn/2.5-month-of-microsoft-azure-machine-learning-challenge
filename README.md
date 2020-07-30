@@ -2,6 +2,22 @@
 This repo contains all the information related to Machine Learning for Microsoft Azure Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
 
+## Day 16: July 29, 2020. #50DaysofUdacity
+- My current progress is:\
+  **1. Introduction to Machine Learning on Azure** (Progress 49%)
+    - **Lesson 3. Model Training** (Progress 78%)
+		- **Lab: Train and Evaluate a Model**
+	
+	
+I will encourage some random folk @Gerry K @Jason Yoo @Karol Karwat  @Jayavardhan Kaspa  @Archita Totla 
+													@Melody Pereira @Jahnavi Jonnalagadda @Shivani Chauhan @Abiola Omolaja
+													@Arpita Gupta @Harkirat Singh @Preeti Sharma @VU Anh-Tuan @Bhavya Dubey 
+
+
+![Day 15 1st](images/day-15-1.png)
+![Day 15 2nd](images/day-15-2.png)
+
+
 
 ## Day 15: July 28, 2020. #50DaysofUdacity
 - My current progress is:\
