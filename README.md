@@ -2,7 +2,26 @@
 This repo contains all the information related to Machine Learning for Microsoft Azure Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
 
-## Day 18: July 31, 2020. #50DaysofUdacity
+To complete one lab task it takes almost 3 hours which can be done within 15 min. Microsoft services are very bad, slow and disturbing functionality.
+## Day 19: August 1, 2020. #50daysofudacity 
+- My current progress is:\
+  **1. Introduction to Machine Learning on Azure** (Progress 52%)
+    - **Lesson 3. Model Training** (Progress 89%)
+		- **Lab: Train and Evaluate a Model** completed.
+		- **Walkthrough: Train a Two-Class Boosted Decision Tree**
+	
+	
+I will send good vibes to awesome folks who are doing great @Chris M @Tahreem Arif @Hung @Sabyh @saikat pandit 
+
+I will encourage @Zahra Nabila Izdihar and @Kirtika Jaiswal to continue #50daysofudacity till completion of course.
+
+![Day 19 1st](images/day-19-1.png)
+![Day 19 2nd](images/day-19-2.png)
+![Day 19 3rd](images/day-19-3.png)
+
+
+
+## Day 18: July 31, 2020. #50daysofudacity
 - My current progress is:\
   **1. Introduction to Machine Learning on Azure** (Progress 52%)
     - **Lesson 3. Model Training** (Progress 89%)
@@ -16,7 +35,7 @@ I will encourage awesome folks who help me to solve my problem @Shikhar Chhabra 
 ![Day 18 2nd](images/day-18-2.png)
 
 
-## Day 17: July 30, 2020. #50DaysofUdacity
+## Day 17: July 30, 2020. #50daysofudacity
 - My current progress is:\
   **1. Introduction to Machine Learning on Azure** (Progress 52%)
     - **Lesson 3. Model Training** (Progress 89%)
@@ -34,7 +53,7 @@ I will encourage some random folk @Akshay mahale @Ram @Anjali Poornima  @Jayavar
 ![Day 17 2nd](images/day-17-2.png)
 
 
-## Day 16: July 29, 2020. #50DaysofUdacity
+## Day 16: July 29, 2020. #50daysofudacity
 - My current progress is:\
   **1. Introduction to Machine Learning on Azure** (Progress 49%)
     - **Lesson 3. Model Training** (Progress 78%)
@@ -50,7 +69,7 @@ I will encourage some random folk @Gerry K @Jason Yoo @Karol Karwat  @Jayavardha
 
 
 
-## Day 15: July 28, 2020. #50DaysofUdacity
+## Day 15: July 28, 2020. #50daysofudacity
 - My current progress is:\
   **1. Introduction to Machine Learning on Azure** (Progress 49%)
     - **Lesson 3. Model Training** (Progress 78%)
@@ -71,7 +90,7 @@ I will encourage some random folk @Gerry K @Jason Yoo @Karol Karwat  @Jayavardha
 
 
 
-## Day 14: July 27, 2020. #50DaysofUdacity
+## Day 14: July 27, 2020. #50daysofudacity
 - My current progress is:\
   **1. Introduction to Machine Learning on Azure** (Progress 46%)
     - **Lesson 3. Model Training** (Progress 69%)
@@ -91,7 +110,7 @@ I will encourage some random folk @Gerry K @Jason Yoo @Karol Karwat  @Jayavardha
 ![Day 14 2nd](images/day-14-2.png)
 
 
-## Day 13: July 26, 2020. #50DaysofUdacity
+## Day 13: July 26, 2020. #50daysofudacity
 - My current progress is:\
   **1. Introduction to Machine Learning on Azure** (Progress 44%)
     - **Lesson 3. Model Training** (Progress 61%)
