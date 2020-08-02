@@ -5,8 +5,8 @@ This repo contains all the information related to Machine Learning for Microsoft
 To complete one lab task it takes almost 3 hours which can be done within 15 min. Microsoft services are very bad, slow and disturbing functionality.
 ## Day 19: August 1, 2020. #50daysofudacity 
 - My current progress is:\
-  **1. Introduction to Machine Learning on Azure** (Progress 52%)
-    - **Lesson 3. Model Training** (Progress 89%)
+  **1. Introduction to Machine Learning on Azure** (Progress 54%)
+    - **Lesson 3. Model Training** (Progress 97%)
 		- **Lab: Train and Evaluate a Model** completed.
 		- **Walkthrough: Train a Two-Class Boosted Decision Tree**
 	
