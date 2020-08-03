@@ -2,6 +2,25 @@
 This repo contains all the information related to Machine Learning for Microsoft Azure Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
 
+## Day 20: August 2, 2020. #50daysofudacity 
+- My current progress is:\
+  **1. Introduction to Machine Learning on Azure** (Progress 54%)
+    - **Lesson 3. Model Training** (Progress 100%)
+		- **Lab: Train a Simple Classifier with Automated ML** completed.
+		- **Walkthrough: Train a Simple Classifier with Automated ML**
+		- **Lesson Summary**
+	
+	
+I will send good vibes to awesome folks who are doing great @Chris M @Tahreem Arif @Hung @Sabyh @Jaime Alejandro Parra Parra @saikat pandit @Zahra Nabila Izdihar and @Kirtika Jaiswal
+
+I will encourage @Mike Supelano @Sebastian Romero @Dishant Tanwar and @Autumn to continue #50daysofudacity till completion of course.
+
+![Day 20 1st](images/day-20-1.png)
+![Day 20 2nd](images/day-20-2.png)
+![Day 20 3rd](images/day-20-3.png)
+
+
+
 To complete one lab task it takes almost 3 hours which can be done within 15 min. Microsoft services are very bad, slow and disturbing functionality.
 ## Day 19: August 1, 2020. #50daysofudacity 
 - My current progress is:\
