@@ -17,7 +17,8 @@ This repo contains all the information related to Machine Learning for Microsoft
 				- How to train your first clustering model in Azure Machine Learning Studio
 		- **Prelaunch Lab**
 		- **Supervised Learning: Classification**
-			> In a classification problem, the outputs are categorical or discrete.
+			> In a classification problem, the outputs are categorical or discrete.\
+
 			Some of the most common types of classification problems include:
 				- Classification on tabular data: The data is available in the form of rows and columns, potentially originating from a wide variety of data sources.
 				- Classification on image or sound data: The training data consists of images or sounds whose categories are already known.
