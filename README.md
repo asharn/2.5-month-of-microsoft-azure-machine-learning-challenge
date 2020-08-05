@@ -6,20 +6,20 @@ This repo contains all the information related to Machine Learning for Microsoft
   **1. Introduction to Machine Learning on Azure** (Progress 56%)
     - **Lesson 4. Supervised & Unsupervised learning** (Progress 19%)
 		- **Lesson Overview** 
-			- First, we'll cover **supervised learning**. Specifically, we'll learn:
+			 First, we'll cover **supervised learning**. Specifically, we'll learn:\
 				- More about classification and regression, two of the most representative supervised learning tasks
 				- Some of the major algorithms involved in supervised learning, as well as how to evaluate and compare their performance
 				- How to use automated machine learning to automate the training and selection of classifiers and regressors, and how to use the Designer in Azure Machine Learning Studio to create automated Machine Learning experiments
-			- Next, the lesson will focus on **unsupervised learning**, including:
+			Next, the lesson will focus on **unsupervised learning**, including:\
 				- Its most representative learning task, clustering
 				- How unsupervised learning can address challenges like lack of labeled data, the curse of dimensionality, overfitting, feature engineering, and outliers
 				- An introduction to representation learning
 				- How to train your first clustering model in Azure Machine Learning Studio
 		- **Prelaunch Lab**
 		- **Supervised Learning: Classification**
-			> In a classification problem, the outputs are categorical or discrete.\
+			> In a classification problem, the outputs are categorical or discrete.
 
-			Some of the most common types of classification problems include:
+			Some of the most common types of classification problems include:\
 				- Classification on tabular data: The data is available in the form of rows and columns, potentially originating from a wide variety of data sources.
 				- Classification on image or sound data: The training data consists of images or sounds whose categories are already known.
 				- Classification on text data: The training data consists of texts whose categories are already known.
