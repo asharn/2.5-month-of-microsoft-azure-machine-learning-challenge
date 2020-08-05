@@ -1,17 +1,33 @@
 # 2.5-month-of-microsoft-azure-machine-learning-challenge
 This repo contains all the information related to Machine Learning for Microsoft Azure Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
+
+## Day 22: August 4, 2020. #50daysofudacity 
+- My current progress is:\
+  **1. Introduction to Machine Learning on Azure** (Progress 56%)
+    - **Lesson 4. Supervised & Unsupervised learning** (Progress 19%)
+		- **Lab: Two-Class Classifiers Performance** 
+		- **Prelaunch Lab**
+	
+I will send good vibes to awesome folks who are doing great @Vamsi @rafayel @Mike McK @Sebastian Rodriguez @Chris M @Tahreem Arif @Hung @Sabyh @saikat pandit @Zahra Nabila Izdihar and @Kirtika Jaiswal
+
+I will encourage  @Seyide Hunyinbo and @Shuvro Pal to continue #50daysofudacity till completion of course.
+
+![Day 22 1st](images/day-22-1.png)
+
+
+
 ## Day 21: August 3, 2020. #50daysofudacity 
 - My current progress is:\
   **1. Introduction to Machine Learning on Azure** (Progress 56%)
     - **Lesson 4. Supervised & Unsupervised learning** (Progress 19%)
 		- **Lesson Overview** 
-			First, we'll cover **supervised learning**. Specifically, we'll learn:\
+			First, we'll cover **supervised learning**. Specifically, we'll learn:
 			- More about classification and regression, two of the most representative supervised learning tasks
 			- Some of the major algorithms involved in supervised learning, as well as how to evaluate and compare their performance
 			- How to use automated machine learning to automate the training and selection of classifiers and regressors, and how to use the Designer in Azure Machine Learning Studio to create automated Machine Learning experiments
 			
-			Next, the lesson will focus on **unsupervised learning**, including:\
+			Next, the lesson will focus on **unsupervised learning**, including:
 			- Its most representative learning task, clustering
 			- How unsupervised learning can address challenges like lack of labeled data, the curse of dimensionality, overfitting, feature engineering, and outliers
 			- An introduction to representation learning
@@ -20,7 +36,7 @@ This repo contains all the information related to Machine Learning for Microsoft
 		- **Supervised Learning: Classification**
 			> In a classification problem, the outputs are categorical or discrete.
 
-			Some of the most common types of classification problems include:\
+			Some of the most common types of classification problems include:
 			- Classification on tabular data: The data is available in the form of rows and columns, potentially originating from a wide variety of data sources.
 			- Classification on image or sound data: The training data consists of images or sounds whose categories are already known.
 			- Classification on text data: The training data consists of texts whose categories are already known.
