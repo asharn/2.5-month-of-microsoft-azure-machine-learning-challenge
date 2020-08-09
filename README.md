@@ -8,6 +8,7 @@ This repo contains all the information related to Machine Learning for Microsoft
     - **Lesson 4. Supervised & Unsupervised learning** (Progress 48%)
 		- **Supervised Learning: Regression**
 			> In a regression problem, the output is numerical or continuous.
+			
 			Common types of regression problems include:		
 				- **Regression on tabular data:** The data is available in the form of rows and columns, potentially originating from a wide variety of data sources.
 				- **Regression on image or sound data:** Training data consists of images/sounds whose numerical scores are already known. Several steps need to be performed during the preparation phase to transform images/sounds into numerical vectors accepted by the algorithms.
