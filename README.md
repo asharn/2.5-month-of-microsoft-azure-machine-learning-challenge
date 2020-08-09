@@ -2,6 +2,33 @@
 This repo contains all the information related to Machine Learning for Microsoft Azure Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
 
+## Day 26: August 8, 2020. #50daysofudacity 
+- My current progress is:\
+  **1. Introduction to Machine Learning on Azure** (Progress 61%)
+    - **Lesson 4. Supervised & Unsupervised learning** (Progress 48%)
+		- **Supervised Learning: Regression**
+			> In a regression problem, the output is numerical or continuous.
+			Common types of regression problems include:		
+				- **Regression on tabular data:** The data is available in the form of rows and columns, potentially originating from a wide variety of data sources.
+				- **Regression on image or sound data:** Training data consists of images/sounds whose numerical scores are already known. Several steps need to be performed during the preparation phase to transform images/sounds into numerical vectors accepted by the algorithms.
+				- **Regression on text data:** Training data consists of texts whose numerical scores are already known. Several steps need to be performed during the preparation phase to transform text into numerical vectors accepted by the algorithms.
+		- **Categories of Algorithms**	
+			Common machine learning algorithms for regression problems include:
+			- **Linear Regression**
+				- Fast training, linear model
+			- **Decision Forest Regression**
+				- Accurate, fast training times
+			- **Neural Net Regression**
+				- Accurate, long training times
+	
+I will send good vibes to awesome folks who are doing great @Sudarshni Sivashankar @Soumi7 @Pasupuleti Chandanato @Kenneth Pham @Seyide Hunyinbo @Shuvro Pal @Vamsi @rafayel @Mike McK @Sebastian Rodriguez @Chris M @Tahreem Arif @Hung @Sabyh @saikat pandit @Zahra Nabila Izdihar and @Kirtika Jaiswal
+
+I will encourage @Jorge and @Anela Karamustafic continue #50daysofudacity till completion of course.
+
+![Day 26 1st](images/day-26-1.png)
+![Day 26 2nd](images/day-26-2.png)
+
+
 ## Day 25: August 7, 2020. #50daysofudacity 
 - My current progress is:\
   **1. Introduction to Machine Learning on Azure** (Progress 61%)
