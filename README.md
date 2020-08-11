@@ -1,16 +1,30 @@
 # 2.5-month-of-microsoft-azure-machine-learning-challenge
 This repo contains all the information related to Machine Learning for Microsoft Azure Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
-## Day 27: August 9, 2020. #50daysofudacity 
+## Day 28: August 10, 2020. #50daysofudacity 
 - My current progress is:\
   **1. Introduction to Machine Learning on Azure** (Progress 64%)
     - **Lesson 4. Supervised & Unsupervised learning** (Progress 67%)
+		- **Automate the Training of Regressors**
+		- **Lab: Train a Regressor using Automated Machine Learning**
+	
+I will send good vibes to awesome folks who are doing great@Godspower Onyenanu @Oriji Sandra O. @Jorge @Anela Karamustafic @Sudarshni Sivashankar @Soumi7 @Pasupuleti Chandanato @Kenneth Pham @Seyide Hunyinbo @Shuvro Pal @Vamsi @rafayel @Mike McK @Sebastian Rodriguez @Chris M @Tahreem Arif @Hung @Sabyh @saikat pandit @Zahra Nabila Izdihar and @Kirtika Jaiswal
+
+I will encourage @Godspower Onyenanu and @Karthik R to continue #50daysofudacity till completion of course.
+
+![Day 28 1st](images/day-28-1.png)
+![Day 28 2nd](images/day-28-2.png)
+
+## Day 27: August 9, 2020. #50daysofudacity 
+- My current progress is:\
+  **1. Introduction to Machine Learning on Azure** (Progress 66%)
+    - **Lesson 4. Supervised & Unsupervised learning** (Progress 74%)
 		- **Lab: Regressors Performance**
 		- **Walkthrough: Regressors Performance**
 	
 I will send good vibes to awesome folks who are doing great @Jorge @Anela Karamustafic @Sudarshni Sivashankar @Soumi7 @Pasupuleti Chandanato @Kenneth Pham @Seyide Hunyinbo @Shuvro Pal @Vamsi @rafayel @Mike McK @Sebastian Rodriguez @Chris M @Tahreem Arif @Hung @Sabyh @saikat pandit @Zahra Nabila Izdihar and @Kirtika Jaiswal
 
-I will encourage @Godspower Onyenanu and @Oriji Sandra O. continue #50daysofudacity till completion of course.
+I will encourage @Pasupuleti Chandana and @Oriji Sandra O. continue #50daysofudacity till completion of course.
 
 ![Day 27 1st](images/day-27-1.png)
 ![Day 27 2nd](images/day-27-2.png)
