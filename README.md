@@ -3,8 +3,8 @@ This repo contains all the information related to Machine Learning for Microsoft
 
 ## Day 28: August 10, 2020. #50daysofudacity 
 - My current progress is:\
-  **1. Introduction to Machine Learning on Azure** (Progress 64%)
-    - **Lesson 4. Supervised & Unsupervised learning** (Progress 67%)
+  **1. Introduction to Machine Learning on Azure** (Progress 67%)
+    - **Lesson 4. Supervised & Unsupervised learning** (Progress 81%)
 		- **Automate the Training of Regressors**
 		- **Lab: Train a Regressor using Automated Machine Learning**
 	
