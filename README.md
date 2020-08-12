@@ -16,7 +16,7 @@ This repo contains all the information related to Machine Learning for Microsoft
 	
 I will send good vibes to awesome folks who are doing great @Godspower Onyenanu @Karthik R @Godspower Onyenanu @Oriji Sandra O. @Jorge @Anela Karamustafic @Sudarshni Sivashankar @Soumi7 @Pasupuleti Chandanato @Kenneth Pham @Seyide Hunyinbo @Shuvro Pal @Vamsi @rafayel @Mike McK @Sebastian Rodriguez @Chris M @Tahreem Arif @Hung @Sabyh @saikat pandit @Zahra Nabila Izdihar and @Kirtika Jaiswal
 
-I will encourage @Godspower Onyenanu and @Karthik R to continue #50daysofudacity till completion of course.
+I will encourage @Jerry Liao and @Iwan Saputra to continue #50daysofudacity till completion of course.
 
 ![Day 29 1st](images/day-29-1.png)
 ![Day 29 2nd](images/day-29-2.png)
