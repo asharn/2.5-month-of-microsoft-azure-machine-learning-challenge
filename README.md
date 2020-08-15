@@ -2,6 +2,29 @@
 This repo contains all the information related to Machine Learning for Microsoft Azure Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
 
+## Day 33: August 15, 2020. #50daysofudacity 
+- My current progress is:\
+  **1. Introduction to Machine Learning on Azure** (Progress 79%)
+    - **Lesson 5. Applications of Machine Learning** (Progress 76%)
+		- **Specialized Cases of Model Training**
+			- Supervised learning
+			- Unsupervised learning
+			- Reinforcement learning
+		- **Similarity Learning**
+		- **Train a Simple Recommender**
+		- **Walkthrough: Train a Simple Recommender**
+			
+
+I will send good vibes to awesome folks who are doing great  @Tugce @Vanessa Correia @Anok Kumar @Jerry Liao @Iwan Saputra @Godspower Onyenanu @Karthik R @Godspower Onyenanu @Oriji Sandra O. @Jorge @Anela Karamustafic @Sudarshni Sivashankar @Soumi7 @Pasupuleti Chandanato @Kenneth Pham @Seyide Hunyinbo @Shuvro Pal @Vamsi @rafayel @Mike McK @Sebastian Rodriguez @Chris M @Tahreem Arif @Hung @Sabyh @saikat pandit @Zahra Nabila Izdihar and @Kirtika Jaiswal
+
+I will encourage @Vaidehi and @Fatima Correia to continue #50daysofudacity till completion of course.
+
+![Day 33 1st](images/day-33-1.png)
+![Day 33 2nd](images/day-33-2.png)
+![Day 33 3rd](images/day-33-3.png)
+![Day 33 4th](images/day-33-4.png)
+
+
 ## Day 32: August 14, 2020. #50daysofudacity 
 - My current progress is:\
   **1. Introduction to Machine Learning on Azure** (Progress 75%)
@@ -15,6 +38,8 @@ I will send good vibes to awesome folks who are doing great  @Tugce @Vanessa Cor
 I will encourage @Vaidehi and @Fatima Correia to continue #50daysofudacity till completion of course.
 
 ![Day 32 1st](images/day-32-1.png)
+![Day 32 2nd](images/day-32-2.png)
+![Day 32 3rd](images/day-32-3.png)
 
 
 
