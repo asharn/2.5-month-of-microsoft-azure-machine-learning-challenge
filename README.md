@@ -4,8 +4,8 @@ This repo contains all the information related to Machine Learning for Microsoft
 
 ## Day 36: August 17, 2020. #50daysofudacity 
 - My current progress is:\
-  **1. Introduction to Machine Learning on Azure** (Progress 82%)
-    - **Lesson 5. Applications of Machine Learning** (Progress 94%)
+  **1. Introduction to Machine Learning on Azure** (Progress 83%)
+    - **Lesson 5. Applications of Machine Learning** (Progress 100%)
 		- **Forecasting**
 		- **Lab: Forecasting**
 		- **Walkthrough: Forecasting**
