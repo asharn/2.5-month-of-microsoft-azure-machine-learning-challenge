@@ -2,7 +2,7 @@
 This repo contains all the information related to Machine Learning for Microsoft Azure Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
 
-## Day 36: August 17, 2020. #50daysofudacity 
+## Day 36: August 18, 2020. #50daysofudacity 
 - My current progress is:\
   **1. Introduction to Machine Learning on Azure** (Progress 83%)
     - **Lesson 5. Applications of Machine Learning** (Progress 100%)
