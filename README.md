@@ -2,12 +2,30 @@
 This repo contains all the information related to Machine Learning for Microsoft Azure Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
 
+## Day 35: August 17, 2020. #50daysofudacity 
+- My current progress is:\
+  **1. Introduction to Machine Learning on Azure** (Progress 82%)
+    - **Lesson 5. Applications of Machine Learning** (Progress 94%)
+		- **Feature Learning**
+		- **Applications of Feature Learning**
+		- **Anomaly Detection**
+			
+
+I will send good vibes to awesome folks who are doing great  @Vaidehi @Fatima Correia @Tugce @Vanessa Correia @Anok Kumar @Jerry Liao @Iwan Saputra @Godspower Onyenanu @Karthik R @Godspower Onyenanu @Oriji Sandra O. @Jorge @Anela Karamustafic @Sudarshni Sivashankar @Soumi7 @Pasupuleti Chandanato @Kenneth Pham @Seyide Hunyinbo @Shuvro Pal @Vamsi @rafayel @Mike McK @Sebastian Rodriguez @Chris M @Tahreem Arif @Hung @Sabyh @saikat pandit @Zahra Nabila Izdihar and @Kirtika Jaiswal
+
+I will encourage @Ravi and @Jahnavi Jonnalagadda to continue #50daysofudacity till completion of course.
+
+![Day 35 1st](images/day-35-1.png)
+![Day 35 2nd](images/day-35-2.png)
+![Day 35 3rd](images/day-35-3.png)
+
+
 ## Day 34: August 16, 2020. #50daysofudacity 
 - My current progress is:\
   **1. Introduction to Machine Learning on Azure** (Progress 81%)
     - **Lesson 5. Applications of Machine Learning** (Progress 88%)
 		- **Text Classification**
-		[**Term Frequency-Inverse Document Frequency (TF-IDF) vectorization**](https://en.wikipedia.org/wiki/Tf-idf)
+		- [**Term Frequency-Inverse Document Frequency (TF-IDF) vectorization**](https://en.wikipedia.org/wiki/Tf-idf)
 		- **Similarity Learning**
 		- **Train a Simple Recommender**
 		- **Walkthrough: Train a Simple Recommender**
