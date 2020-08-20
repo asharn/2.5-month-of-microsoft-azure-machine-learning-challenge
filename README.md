@@ -2,6 +2,24 @@
 This repo contains all the information related to Machine Learning for Microsoft Azure Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
 
+## Day 37: August 19, 2020. #50daysofudacity 
+- My current progress is:\
+  **1. Introduction to Machine Learning on Azure** (Progress 85%)
+    - **Lesson 6. Managed Services for Machine Learning** (Progress 25%)
+		- **Lesson Overview**
+		- **Managed Services for Machine Learning**
+		- **Prelaunch Lab**
+		- **Compute Resourses**
+			
+
+I will send good vibes to awesome folks who are doing great @Varez.W @Snehal Lokesh @Ravi @Jahnavi Jonnalagadda @Vaidehi @Fatima @Tugce @Vanessa Correia @Anok Kumar @Jerry Liao @Iwan Saputra @Godspower Onyenanu @Karthik R @Godspower Onyenanu @Oriji Sandra O. @Jorge @Anela Karamustafic @Sudarshni Sivashankar @Soumi7 @Pasupuleti Chandanato @Kenneth Pham @Seyide Hunyinbo @Shuvro Pal @Vamsi @rafayel @Mike McK @Sebastian Rodriguez @Chris M @Tahreem Arif @Hung @Sabyh @saikat pandit @Zahra Nabila Izdihar and @Kirtika Jaiswal
+
+I will encourage @Ashika and @Vinay to continue #50daysofudacity till completion of course.
+
+![Day 37 1st](images/day-37-1.png)
+![Day 37 2nd](images/day-37-2.png)
+
+
 ## Day 36: August 18, 2020. #50daysofudacity 
 - My current progress is:\
   **1. Introduction to Machine Learning on Azure** (Progress 83%)
