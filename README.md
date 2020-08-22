@@ -2,6 +2,26 @@
 This repo contains all the information related to Machine Learning for Microsoft Azure Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
 
+## Day 39: August 21, 2020. #50daysofudacity 
+- My current progress is:\
+  **1. Introduction to Machine Learning on Azure** (Progress 87%)
+    - **Lesson 6. Managed Services for Machine Learning** (Progress 33%)
+		- **Managed Notebook Environments**
+		- **Lab: Managed Notebook Environments**
+		- **Walkthrough: Managed Notebook Environments**
+		- **Basic Modeling**
+			
+
+I will send good vibes to awesome folks who are doing great @Ashika @Vinay @Varez.W @Snehal Lokesh @Ravi @Jahnavi Jonnalagadda @Vaidehi @Fatima @Tugce @Vanessa Correia @Anok Kumar @Jerry Liao @Iwan Saputra @Godspower Onyenanu @Karthik R @Godspower Onyenanu @Oriji Sandra O. @Jorge @Anela Karamustafic @Sudarshni Sivashankar @Soumi7 @Pasupuleti Chandanato @Kenneth Pham @Seyide Hunyinbo @Shuvro Pal @Vamsi @rafayel @Mike McK @Sebastian Rodriguez @Chris M @Tahreem Arif @Hung @Sabyh @saikat pandit @Zahra Nabila Izdihar and @Kirtika Jaiswal
+
+I will encourage @nileshnegi and @Varsha Kesavan to continue #50daysofudacity till completion of course.
+
+![Day 39 1st](images/day-39-1.png)
+![Day 39 2nd](images/managed-notebooks.png)
+![Day 39 3rd](images/day-39-2.png)
+![Day 39 4th](images/day-39-3.png)
+
+
 ## Day 38: August 20, 2020. #50daysofudacity 
 - My current progress is:\
   **1. Introduction to Machine Learning on Azure** (Progress 87%)
@@ -15,6 +35,7 @@ I will send good vibes to awesome folks who are doing great @Ashika @Vinay @Vare
 I will encourage @Ashika and @Vinay to continue #50daysofudacity till completion of course.
 
 ![Day 38 1st](images/day-38-1.png)
+![Day 38 2nd](images/day-38-2.png)
 
 
 ## Day 37: August 19, 2020. #50daysofudacity 
