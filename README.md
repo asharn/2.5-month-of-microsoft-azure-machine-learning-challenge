@@ -4,8 +4,8 @@ This repo contains all the information related to Machine Learning for Microsoft
 
 ## Day 39: August 21, 2020. #50daysofudacity 
 - My current progress is:\
-  **1. Introduction to Machine Learning on Azure** (Progress 87%)
-    - **Lesson 6. Managed Services for Machine Learning** (Progress 33%)
+  **1. Introduction to Machine Learning on Azure** (Progress 90%)
+    - **Lesson 6. Managed Services for Machine Learning** (Progress 58%)
 		- **Managed Notebook Environments**
 		- **Lab: Managed Notebook Environments**
 		- **Walkthrough: Managed Notebook Environments**
