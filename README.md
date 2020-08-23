@@ -1,6 +1,29 @@
 # 2.5-month-of-microsoft-azure-machine-learning-challenge
 This repo contains all the information related to Machine Learning for Microsoft Azure Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
+## Day 41: August 23, 2020. #50daysofudacity 
+- My current progress is:\
+  **1. Introduction to Machine Learning on Azure** (Progress 97%)
+    - **Lesson 6. Managed Services for Machine Learning** (Progress 100%)
+		- **Lab: Deploy a Model as a Webservice**
+		- **Walkthrough: Deploy a Model as a Webservice**
+		- **Programmatically Accessing Managed Services**
+		- **Lab: Training and Deploying a Model from a Notebook Running in a Compute Instance**
+		- **Walkthrough: Training and Deploying a Model from a Notebook Running in a Compute Instance**
+		- **Lesson Summary**
+			
+
+I will send good vibes to awesome folks who are doing great @Mukund @Duygu @nileshnegi @Varsha Kesavan @Ashika @Vinay @Varez.W @Snehal Lokesh @Ravi @Jahnavi Jonnalagadda @Vaidehi @Fatima @Tugce @Vanessa Correia @Anok Kumar @Jerry Liao @Iwan Saputra @Godspower Onyenanu @Karthik R @Godspower Onyenanu @Oriji Sandra O. @Jorge @Anela Karamustafic @Sudarshni Sivashankar @Soumi7 @Pasupuleti Chandanato @Kenneth Pham @Seyide Hunyinbo @Shuvro Pal @Vamsi @rafayel @Mike McK @Sebastian Rodriguez @Chris M @Tahreem Arif @Hung @Sabyh @saikat pandit @Zahra Nabila Izdihar and @Kirtika Jaiswal
+
+I will encourage @Shrigouri gumaste and @Arpit Dhankhar to continue #50daysofudacity till completion of course.
+
+![Day 41 1st](images/day-41-1.png)
+![Day 41 2nd](images/day-41-2.png)
+![Day 41 3rd](images/day-41-3.png)
+![Day 41 4th](images/day-41-4.png)
+![Day 41 5th](images/day-41-5.png)
+
+
 
 ## Day 40: August 22, 2020. #50daysofudacity 
 - My current progress is:\
