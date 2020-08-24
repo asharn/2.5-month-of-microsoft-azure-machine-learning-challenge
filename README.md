@@ -5,7 +5,7 @@ This repo contains all the information related to Machine Learning for Microsoft
 ## Day 42: August 24, 2020. #50daysofudacity 
 - My current progress is:\
   **1. Introduction to Machine Learning on Azure** (Progress 99%)
-    - **Lesson 7. Responsive AI** (Progress 33%)
+    - **Lesson 7. Responsive AI** (Progress 67%)
 		- **Lesson Overview**
 		- **Modern AI: Challenges and Principles**
 		- **Microsoft AI Principles**
