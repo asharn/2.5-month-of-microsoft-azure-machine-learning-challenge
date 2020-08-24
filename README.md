@@ -1,6 +1,23 @@
 # 2.5-month-of-microsoft-azure-machine-learning-challenge
 This repo contains all the information related to Machine Learning for Microsoft Azure Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
+
+## Day 42: August 24, 2020. #50daysofudacity 
+- My current progress is:\
+  **1. Introduction to Machine Learning on Azure** (Progress 99%)
+    - **Lesson 7. Responsive AI** (Progress 33%)
+		- **Lesson Overview**
+		- **Modern AI: Challenges and Principles**
+		- **Microsoft AI Principles**
+
+I will send good vibes to awesome folks who are doing great @Shrigouri gumaste @Arpit Dhankhar @Mukund @Duygu @nileshnegi @Varsha Kesavan @Ashika @Vinay @Varez.W @Snehal Lokesh @Ravi @Jahnavi Jonnalagadda @Vaidehi @Fatima @Tugce @Vanessa Correia @Anok Kumar @Jerry Liao @Iwan Saputra @Godspower Onyenanu @Karthik R @Godspower Onyenanu @Oriji Sandra O. @Jorge @Anela Karamustafic @Sudarshni Sivashankar @Soumi7 @Pasupuleti Chandanato @Kenneth Pham @Seyide Hunyinbo @Shuvro Pal @Vamsi @rafayel @Mike McK @Sebastian Rodriguez @Chris M @Tahreem Arif @Hung @Sabyh @saikat pandit @Zahra Nabila Izdihar and @Kirtika Jaiswal
+
+I will encourage @Balu_r and @Arpit Dhankhar to continue #50daysofudacity till completion of course.
+
+![Day 42 1st](images/day-42-1.png)
+![Day 42 2nd](images/day-42-2.png)
+
+
 ## Day 41: August 23, 2020. #50daysofudacity 
 - My current progress is:\
   **1. Introduction to Machine Learning on Azure** (Progress 97%)
