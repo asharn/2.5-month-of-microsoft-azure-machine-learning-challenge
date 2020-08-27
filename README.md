@@ -2,6 +2,20 @@
 This repo contains all the information related to Machine Learning for Microsoft Azure Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
 
+## Day 45: August 27, 2020. #50daysofudacity 
+- My current progress is:\
+  **1. Introduction to Machine Learning on Azure** (Progress 100%)
+    - **Lesson 7. Responsive AI** (Progress 100%)
+		- **Model Fairness**
+		- **Lesson Summary**
+
+I will send good vibes to awesome folks who are doing great @Visarion @Ope @Mukund @Suman Dandapat @Chetan S Rane @Hari Prasanth SM @R.M Subodha Lakmini Rathnayake @Sagar Thacker @Ishani Bhardwaj  @SHASHANK KUMAR @jarb29 @Vishal Bansal @Ani @Anita kumari Jena @Vaani Bansal @Joanne Jons @Albino @Hanane Ouhammouch @Balu_r @Arpit Dhankhar @Shrigouri gumaste @Arpit Dhankhar @Mukund @Duygu @nileshnegi @Varsha Kesavan @Ashika @Vinay @Varez.W @Snehal Lokesh @Ravi @Jahnavi Jonnalagadda @Vaidehi @Fatima @Tugce @Vanessa Correia @Anok Kumar @Jerry Liao @Iwan Saputra @Godspower Onyenanu @Karthik R @Godspower Onyenanu @Oriji Sandra O. @Jorge @Anela Karamustafic @Sudarshni Sivashankar @Soumi7 @Pasupuleti Chandanato @Kenneth Pham @Seyide Hunyinbo @Shuvro Pal @Vamsi @rafayel @Mike McK @Sebastian Rodriguez @Chris M @Tahreem Arif @Hung @Sabyh @saikat pandit @Zahra Nabila Izdihar and @Kirtika Jaiswal
+
+
+![Day 45 1st](images/day-45-1.png)
+![Day 45 2nd](images/day-45-2.png)
+
+
 ## Day 44: August 26, 2020. #50daysofudacity 
 - My current progress is:\
   **1. Introduction to Machine Learning on Azure** (Progress 100%)
