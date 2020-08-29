@@ -3,7 +3,7 @@ This repo contains all the information related to Machine Learning for Microsoft
 
 
 
-Finally, I have completed the course and in this while journey I learn basic concept of ML and practice on Azure lab with predefine functions. Some points which describe futire and importance of ML are:	
+	Finally, I have completed the course and in this while journey I learn basic concept of ML and practice on Azure lab with predefines functions. Some points which describe future and importance of ML are:\
 	- Machine Learning is already having a significant impact on almost every aspect of our daily lives
 	- Machine Learning promises to help advance critically important fields like medicine, transportation, space travel, agriculture, cybersecurity, and many more
 	- The trends in computing power availability, moving closer to silicon, public cloud HW resource concentration will continue to accelerate in the next decade
