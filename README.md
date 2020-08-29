@@ -2,6 +2,30 @@
 This repo contains all the information related to Machine Learning for Microsoft Azure Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
 
+
+Finally, I have completed the course and in this while journey I learn basic concept of ML and practice on Azure lab with predefine functions. Some points which describe futire and importance of ML are:	
+	- Machine Learning is already having a significant impact on almost every aspect of our daily lives
+	- Machine Learning promises to help advance critically important fields like medicine, transportation, space travel, agriculture, cybersecurity, and many more
+	- The trends in computing power availability, moving closer to silicon, public cloud HW resource concentration will continue to accelerate in the next decade
+	- Other medium or long-term scientific breakthroughs (think quantum computing) have the potential of creating even larger ML advancements
+	- Better understanding of current algorithms, inventing new ones, focusing on transparency and explainability will be also major trends
+
+
+## Day 46: August 29, 2020. #50daysofudacity 
+- My current progress is:\
+  **1. Introduction to Machine Learning on Azure** (Progress 100%)
+    - **Lesson 8. Course Conclusion** (Progress 100%)
+		- **Model Fairness**
+		- **Lesson Summary**
+
+I will send good vibes to awesome folks who are doing great @Visarion @Ope @Mukund @Suman Dandapat @Chetan S Rane @Hari Prasanth SM @R.M Subodha Lakmini Rathnayake @Sagar Thacker @Ishani Bhardwaj  @SHASHANK KUMAR @jarb29 @Vishal Bansal @Ani @Anita kumari Jena @Vaani Bansal @Joanne Jons @Albino @Hanane Ouhammouch @Balu_r @Arpit Dhankhar @Shrigouri gumaste @Arpit Dhankhar @Mukund @Duygu @nileshnegi @Varsha Kesavan @Ashika @Vinay @Varez.W @Snehal Lokesh @Ravi @Jahnavi Jonnalagadda @Vaidehi @Fatima @Tugce @Vanessa Correia @Anok Kumar @Jerry Liao @Iwan Saputra @Godspower Onyenanu @Karthik R @Godspower Onyenanu @Oriji Sandra O. @Jorge @Anela Karamustafic @Sudarshni Sivashankar @Soumi7 @Pasupuleti Chandanato @Kenneth Pham @Seyide Hunyinbo @Shuvro Pal @Vamsi @rafayel @Mike McK @Sebastian Rodriguez @Chris M @Tahreem Arif @Hung @Sabyh @saikat pandit @Zahra Nabila Izdihar and @Kirtika Jaiswal
+
+
+![Day 46 1st](images/day-46-1.png)
+![Day 46 2nd](images/day-46-2.png)
+
+
+
 ## Day 45: August 27, 2020. #50daysofudacity 
 - My current progress is:\
   **1. Introduction to Machine Learning on Azure** (Progress 100%)
