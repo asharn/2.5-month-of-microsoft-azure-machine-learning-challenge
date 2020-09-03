@@ -1,6 +1,40 @@
 # 2.5-month-of-microsoft-azure-machine-learning-challenge
 This repo contains all the information related to Machine Learning for Microsoft Azure Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
+## Day 50: September 02, 2020. #50daysofudacity 
+- My current progress is:\
+  **1. Introduction to Machine Learning on Azure** (Progress 100%)
+      - **Revised all topic related to Lesson 5. Application of Machine Learning** (Progress 100%)
+    - **Text Classification**
+
+I will send good vibes to awesome folks who are doing great @Visarion @Ope @Mukund @Suman Dandapat @Chetan S Rane @Hari Prasanth SM @R.M Subodha Lakmini Rathnayake @Sagar Thacker @Ishani Bhardwaj  @SHASHANK KUMAR @jarb29 @Vishal Bansal @Ani @Anita kumari Jena @Vaani Bansal @Joanne Jons @Albino @Hanane Ouhammouch @Balu_r @Arpit Dhankhar @Shrigouri gumaste @Arpit Dhankhar @Mukund @Duygu @nileshnegi @Varsha Kesavan @Ashika @Vinay @Varez.W @Snehal Lokesh @Ravi @Jahnavi Jonnalagadda @Vaidehi @Fatima @Tugce @Vanessa Correia @Anok Kumar @Jerry Liao @Iwan Saputra @Godspower Onyenanu @Karthik R @Godspower Onyenanu @Oriji Sandra O. @Jorge @Anela Karamustafic @Sudarshni Sivashankar @Soumi7 @Pasupuleti Chandanato @Kenneth Pham @Seyide Hunyinbo @Shuvro Pal @Vamsi @rafayel @Mike McK @Sebastian Rodriguez @Chris M @Tahreem Arif @Hung @Sabyh @saikat pandit @Zahra Nabila Izdihar and @Kirtika Jaiswal
+
+
+![Day 50 1st](images/day-50-1.png)
+
+
+## Day 49: September 01, 2020. #50daysofudacity 
+- My current progress is:\
+  **1. Introduction to Machine Learning on Azure** (Progress 100%)
+    - **Revised all topic related to Lesson 5. Application of Machine Learning** (Progress 100%)
+    - **What is Deep Learning?**
+
+I will send good vibes to awesome folks who are doing great @Visarion @Ope @Mukund @Suman Dandapat @Chetan S Rane @Hari Prasanth SM @R.M Subodha Lakmini Rathnayake @Sagar Thacker @Ishani Bhardwaj  @SHASHANK KUMAR @jarb29 @Vishal Bansal @Ani @Anita kumari Jena @Vaani Bansal @Joanne Jons @Albino @Hanane Ouhammouch @Balu_r @Arpit Dhankhar @Shrigouri gumaste @Arpit Dhankhar @Mukund @Duygu @nileshnegi @Varsha Kesavan @Ashika @Vinay @Varez.W @Snehal Lokesh @Ravi @Jahnavi Jonnalagadda @Vaidehi @Fatima @Tugce @Vanessa Correia @Anok Kumar @Jerry Liao @Iwan Saputra @Godspower Onyenanu @Karthik R @Godspower Onyenanu @Oriji Sandra O. @Jorge @Anela Karamustafic @Sudarshni Sivashankar @Soumi7 @Pasupuleti Chandanato @Kenneth Pham @Seyide Hunyinbo @Shuvro Pal @Vamsi @rafayel @Mike McK @Sebastian Rodriguez @Chris M @Tahreem Arif @Hung @Sabyh @saikat pandit @Zahra Nabila Izdihar and @Kirtika Jaiswal
+
+
+![Day 49 1st](images/day-49-1.png)
+
+
+## Day 48: August 31, 2020. #50daysofudacity 
+- My current progress is:\
+  **1. Introduction to Machine Learning on Azure** (Progress 100%)
+    - **Revised all topic related to Lesson 5. Application of Machine Learning** (Progress 100%)
+    - **Classical Machine Learning vs. Deep Learning**
+
+I will send good vibes to awesome folks who are doing great @Visarion @Ope @Mukund @Suman Dandapat @Chetan S Rane @Hari Prasanth SM @R.M Subodha Lakmini Rathnayake @Sagar Thacker @Ishani Bhardwaj  @SHASHANK KUMAR @jarb29 @Vishal Bansal @Ani @Anita kumari Jena @Vaani Bansal @Joanne Jons @Albino @Hanane Ouhammouch @Balu_r @Arpit Dhankhar @Shrigouri gumaste @Arpit Dhankhar @Mukund @Duygu @nileshnegi @Varsha Kesavan @Ashika @Vinay @Varez.W @Snehal Lokesh @Ravi @Jahnavi Jonnalagadda @Vaidehi @Fatima @Tugce @Vanessa Correia @Anok Kumar @Jerry Liao @Iwan Saputra @Godspower Onyenanu @Karthik R @Godspower Onyenanu @Oriji Sandra O. @Jorge @Anela Karamustafic @Sudarshni Sivashankar @Soumi7 @Pasupuleti Chandanato @Kenneth Pham @Seyide Hunyinbo @Shuvro Pal @Vamsi @rafayel @Mike McK @Sebastian Rodriguez @Chris M @Tahreem Arif @Hung @Sabyh @saikat pandit @Zahra Nabila Izdihar and @Kirtika Jaiswal
+
+
+![Day 48 1st](images/day-48-1.png)
 
 
 ## Day 47: August 30, 2020. #50daysofudacity 
